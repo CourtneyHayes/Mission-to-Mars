@@ -1,5 +1,5 @@
 ## Mission-to-Mars
-### Module 11 Web Scrapin
+### Module 11 Web Scraping
 
 #### Project Overview
 Robin's Mission to Mars project is to scrape, analyze, organize, and visuale the data. Using the skills learned in module 11 and programs such as Beautiful Soup and splinter, data will be collected, organized, and visually communicated.
